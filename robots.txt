@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /article/view/
+Allow: /article/download/
+Allow: /issue/
+Allow: /about
+Disallow: /cache/
+Disallow: /api/
+Disallow: /login
+Disallow: /user/register
+Disallow: /search
+Disallow: /management/
+Disallow: /$$$call$$$/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+# Academic Crawlers (Google Scholar)
+User-agent: Googlebot-Image
+Allow: /public/
+
+Sitemap: https://jtrdcs.yotainovasi.id/sitemap
