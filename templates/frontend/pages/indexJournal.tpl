@@ -22,7 +22,7 @@
 						{/if}
 					</span>
 					<span class="hero-freq-badge">
-						{if $currentLocale == 'id'}Terbit 3x Setahun: April, Agustus, Desember{else}Published 3x / Year: Apr, Aug, Dec{/if}
+						{if $currentLocale == 'id'}Terbit Berkala 2x Setahun: April &amp; Oktober{else}Published Biannually: April &amp; October{/if}
 					</span>
 				</div>
 
@@ -219,8 +219,8 @@
 			</div>
 			<div class="step-card">
 				<div class="step-num">4</div>
-				<h4>{if $currentLocale == 'id'}Publikasi &amp; Terindeks{else}Publish &amp; Index{/if}</h4>
-				<p>{if $currentLocale == 'id'}Artikel terbit open access dengan nomor DOI Crossref dan terindeks global.{else}Article published open access with official Crossref DOI and global indexing.{/if}</p>
+				<h4>{if $currentLocale == 'id'}Publikasi Open Access{else}Open Access Publication{/if}</h4>
+				<p>{if $currentLocale == 'id'}Artikel terbit berstatus Open Access permanen (Bebas APC) dengan pengidentifikasi digital dan preservasi arsip berkala.{else}Articles published under permanent Gold Open Access (Zero APC) with digital preservation and archival indexing.{/if}</p>
 			</div>
 		</div>
 	</section>
