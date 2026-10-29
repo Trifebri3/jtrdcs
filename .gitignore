@@ -1,0 +1,36 @@
+# ==============================================================================
+# JTRDCS / OJS Git Ignore Configuration
+# ==============================================================================
+
+# 1. Credentials & Sensitive Configurations
+config.inc.php
+*.env
+*.key
+*.pem
+*.secret
+
+# 2. OJS Cache & Temporary Files
+cache/t_compile/*
+!cache/t_compile/.gitignore
+cache/*.php
+cache/opcache/*
+cache/*.tmp
+
+# 3. Development Scratch & Database Dumps
+scratch/
+scratch_*
+*.sql
+*.sql.gz
+*.tar.gz
+*.zip
+*.bak
+*.old
+
+# 4. OS & IDE Metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
