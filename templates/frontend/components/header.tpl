@@ -143,10 +143,9 @@
 						     class="hero-panoramic-img" />
 						<div class="hero-panoramic-overlay">
 							<div class="hero-panoramic-badges">
-								<span class="badge-leaf"><i class="fa fa-leaf"></i> LEAF-TECH SMART INNOVATION</span>
+								<span class="badge-leaf"><i class="fa fa-leaf"></i> LEAF-TECH INNOVATION</span>
 								<span class="badge-open"><i class="fa fa-unlock-alt"></i> OPEN ACCESS (FREE APC)</span>
 								<span class="badge-nirlaba"><i class="fa fa-heart"></i> YAYASAN NIRLABA</span>
-								<span class="badge-peer"><i class="fa fa-check-circle"></i> DOUBLE-BLIND PEER REVIEW</span>
 							</div>
 							<h1 class="hero-panoramic-title">
 								{if $currentLocale == 'id'}
@@ -157,9 +156,9 @@
 							</h1>
 							<p class="hero-panoramic-subtitle">
 								{if $currentLocale == 'id'}
-									Dikelola dan diterbitkan secara berkala oleh <strong>Yota Adiwidya Center</strong> di bawah naungan <strong>Yayasan Yota Wujudkan Asa (Lembaga Nirlaba)</strong>. Memfasilitasi diseminasi artikel ilmiah orisinal, prototipe aplikatif AI &amp; IoT, serta program pengabdian masyarakat berdaya guna tinggi.
+									Dikelola dan diterbitkan oleh <strong>Yota Adiwidya Center</strong> di bawah naungan <strong>Yayasan Yota Wujudkan Asa (Lembaga Nirlaba)</strong>. Memfasilitasi diseminasi artikel ilmiah orisinal, prototipe aplikatif AI &amp; IoT, serta pengabdian masyarakat berdaya guna.
 								{else}
-									Published and managed regularly by <strong>Yota Adiwidya Center</strong> under the auspices of <strong>Yayasan Yota Wujudkan Asa (Non-Profit Foundation)</strong>. Dedicated to advancing applied technological research, AI &amp; IoT prototyping, and sustainable community empowerment programs.
+									Published and managed by <strong>Yota Adiwidya Center</strong> under the auspices of <strong>Yayasan Yota Wujudkan Asa (Non-Profit Foundation)</strong>. Dedicated to advancing applied technological research, AI &amp; IoT prototyping, and sustainable community empowerment.
 								{/if}
 							</p>
 							<div class="hero-panoramic-actions">
