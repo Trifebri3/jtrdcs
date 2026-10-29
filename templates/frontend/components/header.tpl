@@ -24,7 +24,7 @@
 				<div class="jtrdcs-topbar-left">
 					<span class="jtrdcs-badge-oa"><i class="fa fa-unlock-alt"></i> Open Access</span>
 					<span class="jtrdcs-badge-nirlaba"><i class="fa fa-heart"></i> Nirlaba</span>
-					<span class="jtrdcs-topbar-issn">E-ISSN: 3025-XXXX &bull; P-ISSN: 3025-YYYY</span>
+					<span class="jtrdcs-topbar-issn"><i class="fa fa-clock-o"></i> {if $currentLocale == 'id'}E-ISSN: Dalam Proses Pengajuan{else}E-ISSN: In Progress{/if}</span>
 					<span class="jtrdcs-topbar-sep d-none d-md-inline">|</span>
 					<span class="jtrdcs-topbar-contact d-none d-lg-inline">
 						<a href="mailto:yotaadiwidyacenter@gmail.com" class="tb-link"><i class="fa fa-envelope"></i> yotaadiwidyacenter@gmail.com</a>
