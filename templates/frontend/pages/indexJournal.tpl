@@ -235,15 +235,15 @@
 				<h3>{if $currentLocale == 'id'}Butuh Bantuan Submit atau Konsultasi Naskah?{else}Need Help with Submission or Publishing Inquiries?{/if}</h3>
 				<p>
 					{if $currentLocale == 'id'}
-						Tim redaksi <strong>JTRDCS</strong> &amp; <strong>Yota Inovasi</strong> siap mendampingi Anda melalui email resmi atau layanan konsultasi WhatsApp.
+						Tim redaksi <strong>JTRDCS</strong> &bull; <strong>Yota Adiwidya Center (Yayasan Yota Wujudkan Asa - Nirlaba)</strong> siap mendampingi Anda melalui email resmi atau layanan konsultasi WhatsApp.
 					{else}
-						The editorial team of <strong>JTRDCS</strong> &amp; <strong>Yota Inovasi</strong> is ready to assist you via official email or WhatsApp helpdesk.
+						The editorial team of <strong>JTRDCS</strong> &bull; <strong>Yota Adiwidya Center (Yayasan Yota Wujudkan Asa - Non-Profit)</strong> is ready to assist you via official email or WhatsApp helpdesk.
 					{/if}
 				</p>
 			</div>
 			<div class="helpdesk-buttons">
-				<a href="mailto:hello@yotainovasi.id" class="btn-helpdesk-email">
-					<i class="fa fa-envelope"></i> hello@yotainovasi.id
+				<a href="mailto:yotaadiwidyacenter@gmail.com" class="btn-helpdesk-email">
+					<i class="fa fa-envelope"></i> yotaadiwidyacenter@gmail.com
 				</a>
 				<a href="https://wa.me/6285862319524?text=Halo%20Redaksi%20JTRDCS" target="_blank" rel="noopener" class="btn-helpdesk-wa">
 					<i class="fa fa-whatsapp"></i> WhatsApp: 085862319524

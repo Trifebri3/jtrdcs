@@ -117,12 +117,12 @@
 				</h2>
 				<div class="content">
 					<div class="contact-publisher-badge">
-						<strong>Yota Inovasi</strong>
-						<span class="badge-role">{if $currentLocale == 'id'}Penerbit Jurnal{else}Publisher{/if}</span>
+						<strong>Yota Adiwidya Center</strong>
+						<span class="badge-role">Yayasan Yota Wujudkan Asa (Nirlaba)</span>
 					</div>
 					<p class="contact-item">
 						<i class="fa fa-envelope" style="color:var(--jtrdcs-primary);"></i> 
-						<strong>Email:</strong> <a href="mailto:hello@yotainovasi.id">hello@yotainovasi.id</a>
+						<strong>Email:</strong> <a href="mailto:yotaadiwidyacenter@gmail.com">yotaadiwidyacenter@gmail.com</a>
 					</p>
 					<p class="contact-item">
 						<i class="fa fa-whatsapp" style="color:#25d366;"></i> 
