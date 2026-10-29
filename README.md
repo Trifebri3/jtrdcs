@@ -80,4 +80,9 @@ This software is released under the GNU General Public License. See the file `do
 Third parties are welcome to modify and redistribute OJS in entirety or parts according to the terms of this license. PKP also welcomes patches for improvements or bug fixes to the software.
 
 # jtrdcs
-Journal of Technology Research, Development and Community Service - Published by Yota Inovasi
+**Journal of Technology Research, Development and Community Service (JTRDCS)**
+- **Penerbit / Pengelola**: Yota Adiwidya Center
+- **Badan Hukum / Naungan**: Yayasan Yota Wujudkan Asa (Lembaga Nirlaba)
+- **Email Resmi**: yotaadiwidyacenter@gmail.com
+- **Website Jurnal**: https://journal.myoin.id
+- **WhatsApp Official**: 085862319524

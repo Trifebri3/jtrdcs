@@ -10,11 +10,11 @@ config.inc.php
 *.secret
 
 # 2. OJS Cache & Temporary Files
-cache/t_compile/*
+cache/*
+!cache/.gitignore
 !cache/t_compile/.gitignore
-cache/*.php
-cache/opcache/*
-cache/*.tmp
+backups/
+
 
 # 3. Development Scratch & Database Dumps
 scratch/
